@@ -1,4 +1,3 @@
-# cook your dish here
 num = 0
 other_nums = []
 while num != 42:
